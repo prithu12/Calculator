@@ -1,0 +1,31 @@
+#container{
+    border: 1px solid rgb(107, 105, 105);
+    border-radius: 5px;
+    width:280px;
+    margin:90px auto ;
+}
+#display{
+    margin: 10px;
+    font-size: 45px;
+    width: 85%;
+
+}
+.numbers{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    width: 75px;
+    height: 75px;
+    margin: 3px;
+}
+body {
+    background-image: url('image1.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+  }
+h1{
+    text-align: center;
+}
